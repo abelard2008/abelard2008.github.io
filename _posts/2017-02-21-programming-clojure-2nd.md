@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Programming Clojure 2nd 笔记"
-categories: Language
-author: Dillon Peng
 date: Tue Feb 21 14:28:49 CST 2017
+author: Dillon Peng
+categories: Language
+catalog: true
+tags:
+  - Language
 ---
 
 书中一些例子直接在*cider-repl*中敲入并不能得到想要的结果,形成文件，存入[programming-clojure-2nd](https://github.com/abelard2008/programming-clojure-2nd)项目中。
